@@ -56,6 +56,16 @@
 
 ---
 
+## 🏆 Achievements  
+
+- 🥇 Ranked in the **Top 10%** of coders on HackerRank (Java & Problem Solving).  
+- 🚀 Built a project that reached **500+ users in its first month**.  
+- 🎓 Completed **100+ LeetCode problems** to sharpen problem-solving skills.  
+- 🌐 Selected for a **Hackathon Final Round**, presenting a full-stack project in under 24 hours.  
+- ⭐ Contributed to **open-source projects** and collaborated with global developers.  
+
+---
+
 ## 🌟 Featured Projects  
 
 | Project | Description | Tech Stack |
