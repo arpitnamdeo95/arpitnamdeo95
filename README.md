@@ -52,15 +52,14 @@
 - 🔹 Created **REST APIs in Java/Spring Boot** with authentication & role-based access.  
 - 🔹 Worked with **MySQL & MongoDB** for real-world use cases like e-commerce and dashboards.  
 - 🔹 Strong foundation in **DSA, problem-solving, and competitive coding**.  
-- 🔹 Exploring **system design** and **scalable backend architectures**.  
+- 🔹 Exploring **Agentic AI** and **web3 solutions**.  
 
 ---
 
 ## 🏆 Achievements  
 
-- 🥇 Ranked in the **Top 10%** of coders on HackerRank (Java & Problem Solving).  
-- 🚀 Built a project that reached **500+ users in its first month**.  
-- 🎓 Completed **100+ LeetCode problems** to sharpen problem-solving skills.  
+- 🚀 Built a project that reached **1000+ users in its first month**.  
+- 🎓 Completed **500+ LeetCode problems** to sharpen problem-solving skills.  
 - 🌐 Selected for a **Hackathon Final Round**, presenting a full-stack project in under 24 hours.  
 - ⭐ Contributed to **open-source projects** and collaborated with global developers.  
 
