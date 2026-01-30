@@ -70,7 +70,7 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **Malware Detection System** | A machine learning-based system to detect malware using Python & Jupyter Notebook. | Python · ML · Jupyter |
-| **Valentine Love Meter** | A fun interactive game that convinces users to say *Yes!* | HTML · CSS · JS |
+| **Employee Performance-Analyzer & Insight Generator ** |agent assigning tasks to Developers as-per current busy-ness and skillset* | LangGraph, OpenAI 5o ,NLTK , Next.js, MongoDB, FastAPI |
 | **Typing Game (One Piece Theme)** | A typing speed game with anime vibes. | JavaScript · HTML · CSS |
 | **Compliance Monitoring System for Financial Traders** | a Compliance monitoring system over E-mails/chats of traders to extract risks. | Python, NLP (spaCy/NLTK) |
 
